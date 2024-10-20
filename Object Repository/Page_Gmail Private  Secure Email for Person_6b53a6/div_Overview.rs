@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview</name>
+   <tag></tag>
+   <elementGuidId>98553a2e-4a20-4f07-acdf-d1969bd2032d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div[2]/div/details/details-dialog/div/div/div[2]/div[2]/div[2]/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Overview Google Workspace Business&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f35a20d2-46c9-48ff-8b56-394b31f0d7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__nav__group__subsections__container__left__subsections__subsection__items__item__text__title</value>
+      <webElementGuid>bd3c7237-5429-415b-8568-dbc434064825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview
+                                </value>
+      <webElementGuid>5e8fd552-7d98-48b9-9787-0a570c653723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;header&quot;]/div[@class=&quot;header__tablet-nav header__content&quot;]/div[@class=&quot;header__tablet-nav__left header__nav&quot;]/details[@class=&quot;header__nav__group&quot;]/details-dialog[@class=&quot;header__nav__group__subsections&quot;]/div[@class=&quot;header__nav__group__subsections__container&quot;]/div[@class=&quot;header__nav__group__subsections__container__left&quot;]/div[@class=&quot;header__nav__group__subsections__container__left__subsections&quot;]/div[@class=&quot;header__nav__group__subsections__container__left__subsections__subsection&quot;]/div[@class=&quot;header__nav__group__subsections__container__left__subsections__subsection__items&quot;]/a[@class=&quot;header__nav__group__subsections__container__left__subsections__subsection__items__item&quot;]/div[@class=&quot;header__nav__group__subsections__container__left__subsections__subsection__items__item__text&quot;]/div[@class=&quot;header__nav__group__subsections__container__left__subsections__subsection__items__item__text__title&quot;]</value>
+      <webElementGuid>5bfeb304-fcfd-4fe3-b8b2-b77fe85ed481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div[2]/div/details/details-dialog/div/div/div[2]/div[2]/div[2]/a/div/div</value>
+      <webElementGuid>906a1ce7-e4c9-4f1f-9078-347883bda85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[3]/following::div[3]</value>
+      <webElementGuid>867a6218-2025-4cb4-bf72-a2bcbe1d1ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Workspace Individual'])[2]/following::div[5]</value>
+      <webElementGuid>1618834f-f135-4f15-b555-13299fa403f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Workspace Business'])[2]/preceding::div[1]</value>
+      <webElementGuid>05534790-b3ac-4230-8fc7-0067968aa7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Small Business'])[3]/preceding::div[2]</value>
+      <webElementGuid>293c0f67-5ff7-4202-9849-099484875d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/details/details-dialog/div/div/div[2]/div[2]/div[2]/a/div/div</value>
+      <webElementGuid>0e8c0553-656c-43aa-bc43-512b5282356f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overview
+                                ' or . = 'Overview
+                                ')]</value>
+      <webElementGuid>a2b6811f-520d-4915-92f5-6ef9865f5a5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

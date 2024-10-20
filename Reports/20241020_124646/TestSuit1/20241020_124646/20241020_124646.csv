@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuit1,Chrome 129.0.0.0,,,20-10-2024 12:46:57,20-10-2024 12:47:39,41.947s,PASSED
+,,,,,,,
+Test Cases/Git_TestCase1,Chrome 129.0.0.0,,,20-10-2024 12:46:57,20-10-2024 12:47:19,21.707s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,20-10-2024 12:46:58,20-10-2024 12:47:02,4.031s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 129.0.0.0,,,20-10-2024 12:47:02,20-10-2024 12:47:02,0.548s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_Sign in_q""), ""gmail"")",Chrome 129.0.0.0,,,20-10-2024 12:47:02,20-10-2024 12:47:06,3.314s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_gmail""))",Chrome 129.0.0.0,,,20-10-2024 12:47:06,20-10-2024 12:47:07,1.117s,PASSED
+"click(findTestObject(""Object Repository/Page_gmail - Google Search/h3_Gmail - Google""))",Chrome 129.0.0.0,,,20-10-2024 12:47:07,20-10-2024 12:47:12,5.361s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/a_For work""))",Chrome 129.0.0.0,,,20-10-2024 12:47:12,20-10-2024 12:47:18,6.099s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,20-10-2024 12:47:18,20-10-2024 12:47:19,0.558s,PASSED
+,,,,,,,
+Test Cases/TestCase2,Chrome 129.0.0.0,,,20-10-2024 12:47:19,20-10-2024 12:47:39,19.728s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,20-10-2024 12:47:19,20-10-2024 12:47:21,1.801s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 129.0.0.0,,,20-10-2024 12:47:21,20-10-2024 12:47:23,1.930s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_Sign in_q""), ""gmail"")",Chrome 129.0.0.0,,,20-10-2024 12:47:23,20-10-2024 12:47:24,0.891s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_gmail""))",Chrome 129.0.0.0,,,20-10-2024 12:47:24,20-10-2024 12:47:25,0.955s,PASSED
+"click(findTestObject(""Object Repository/Page_gmail - Google Search/h3_Gmail - Google""))",Chrome 129.0.0.0,,,20-10-2024 12:47:25,20-10-2024 12:47:31,5.775s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail Private and secure email at no c_d3ebd8/a_For work""))",Chrome 129.0.0.0,,,20-10-2024 12:47:31,20-10-2024 12:47:36,5.035s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail Private  Secure Email for Person_6b53a6/summary_Solutions""))",Chrome 129.0.0.0,,,20-10-2024 12:47:36,20-10-2024 12:47:36,0.542s,PASSED
+"click(findTestObject(""Object Repository/Page_Gmail Private  Secure Email for Person_6b53a6/div_Overview""))",Chrome 129.0.0.0,,,20-10-2024 12:47:36,20-10-2024 12:47:38,1.921s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,20-10-2024 12:47:38,20-10-2024 12:47:39,0.469s,PASSED
